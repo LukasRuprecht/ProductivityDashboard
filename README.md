@@ -1,6 +1,8 @@
 # ProductivityDashboard
 A feature-rich Pomodoro Timer application built with React that helps users manage their time effectively using the Pomodoro Technique. The app includes a sidebar navigation system, to-do list integration, and user preferences - all accessible with or without creating an account.
 
+<img width="1440" alt="image" src="https://github.com/user-attachments/assets/91213112-c460-4d65-bf9d-518240683c9f" />
+
 
 ## Features
 
