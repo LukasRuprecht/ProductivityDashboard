@@ -1,5 +1,5 @@
 # ProductivityDashboard
-A feature-rich Pomodoro Timer application built with React that helps users manage their time effectively using the Pomodoro Technique. The app includes a sidebar navigation system, to-do list integration, and user preferences - all accessible with or without creating an account.
+A feature-rich Pomodoro Timer application built with React and a Node.js backend, designed to help users manage their time effectively using the Pomodoro Technique. It includes a sidebar navigation system, to-do list integration, and customizable user preferences — all accessible with or without creating an account. The app uses a lightweight SQLite database to ensure secure and reliable data storage.
 
 <img width="1440" alt="image" src="https://github.com/user-attachments/assets/91213112-c460-4d65-bf9d-518240683c9f" />
 
@@ -121,14 +121,6 @@ For non-authenticated users, the application stores data in the following localS
 - **Tailwind CSS** - Styling and UI components
 - **Lucide React** - Icons
 - **Local Storage API** - Local data persistence
-
-## Contributing
-
-1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/amazing-feature`)
-3. Commit your changes (`git commit -m 'Add some amazing feature'`)
-4. Push to the branch (`git push origin feature/amazing-feature`)
-5. Open a Pull Request
 
 ## License
 
